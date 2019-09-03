@@ -14,7 +14,7 @@ finally:
     path = os.getcwd()+"\\"
     os.chdir(os.getcwd()+"/resized")
 
-temp = input("resize on the basis of (1-height , 2 - width) :- ")
+temp = input("resize on the basis of (1-height , 2-width) :- ")
 if temp=="1":
     heightmain = int(input("The the value of height :- "))
 else:
