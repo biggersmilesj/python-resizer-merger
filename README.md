@@ -1,5 +1,8 @@
 # python-resizer-merger
 
+Required :- FFmpeg :- 
+https://ffmpeg.org/
+
 resizer :- https://github.com/biggersmilesj/python-resizer
 
 check my other repo or follow this steps:-
