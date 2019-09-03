@@ -1,4 +1,5 @@
 # python-resizer-merger
+Python script for resize video at some fixed resolution and merge that all videos together.
 
 Required :- FFmpeg :- 
 https://ffmpeg.org/
